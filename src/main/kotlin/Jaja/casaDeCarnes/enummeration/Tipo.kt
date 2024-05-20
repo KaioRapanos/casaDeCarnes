@@ -1,0 +1,5 @@
+package Jaja.casaDeCarnes.enummeration
+
+enum class Tipo {
+    CARNE_BOVINA, CARNE_SUINA, CARNE_DE_AVES, CARNE_DE_CORDEIRO_OVINO, BEBIDAS_NAO_ALCOLICAS, BEBIDAS_ALCOLICAS
+}
